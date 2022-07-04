@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-peso_por_grano = 0.02
+peso_por_grano = 0.00000002
 padding = {
     "casilla": 2,
     "unit": 20,
