@@ -8,8 +8,8 @@ padding = {
 }
 msg = {
     "unit": "granos",
-    "weight": "gramos",
-    "t_weight": "toneladas",
+    "weight": "Ton",
+    "t_weight": "Mt",
 }
 
 
