@@ -56,6 +56,6 @@ def build_content():
 
 data = build_content()
 
-print(build_box())
+print(build_box(data['content']))
 print(f"  · Granos totales: {data['total_number']}")
 print(f"  · Peso total = {data['total_weight'] / 1000000} { msg['t_weight'] }")
